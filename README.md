@@ -16,7 +16,8 @@ with whatever naming convention desired. The user is also able to filter the res
 filter at anytime. There are additional instructions provided within the program executable further explaining the process.
 For development information, click on **Development Information** in the program executable.
 
-The `NonpostedReporter/doc` folder provided is simply documentation for the code used to write this program. It provides `.html` links to
-pages with Javadoc information that explains the classes and methods written for functionality. This is provided for the
+## Documentation
+
+The [`NonpostedReporter/doc`](https://github.com/ctripoll/ADG_RequisitionReporter/tree/master/NonpostedReporter/doc) folder provided is simply documentation for the code used to write this program. It provides `.html` links to pages with Javadoc information that explains the classes and methods written for functionality. This is provided for the
 purpose of credit to the author and if the question of how this program was developed arises. Otherwise, this folder
 provides no additional functionality to the Nonposted Req Reporter program.
