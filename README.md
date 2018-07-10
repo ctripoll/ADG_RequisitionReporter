@@ -4,9 +4,19 @@ A simple Java based system that takes in two excel files provided by the user (f
 
 _Developed in Summer of 2017 by Courtney Ripoll_
 
+_Developed for Automotive Development Group_
+
+## Technology Used
+* Java
+* Apache POI
+* Microsoft Excel
+* Eclipse IDE
+
 ## To run the Executable
 
-Download `Nonposted Req Reporter.jar` and double-click to start the program. Instructions for the program should be displayed upon start-up.
+Download `Nonposted Req Reporter.jar` and double-click to start the program. Instructions for the program should be displayed upon start-up. 
+
+In `examples_inputs.zip` are two valid example files to demonstrate the functionality of this application. Any other files may not work as this application requires a very specific format.
 
 ## About
 
